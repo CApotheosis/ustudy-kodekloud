@@ -1,0 +1,43 @@
+🚀 Welcome to the First Lab of Prompt Engineering 101! 🎉
+Hello there, aspiring prompt engineer! 👋 Welcome to the very first lab of the Learn by Doing - Prompt Engineering 101 course!
+
+In this introductory lab, you'll learn to navigate the UI of our labs and interact with the ChatGPT-style app that you'll be using throughout this course. Think of it as your first step into the exciting world of prompt engineering! 🌍
+
+🧭 Navigating the Lab Environment
+Let's take a quick tour of the lab environment:
+
+🔍 Overview Tab: You are here! This is your starting point, with detailed information on the lab's topic. Make sure to review it thoroughly before moving on to the tasks.
+
+📝 Tasks Tab: When you're ready to put your knowledge to the test, switch to the Tasks tab. You'll find a mix of multiple-choice questions and hands-on tasks that will challenge the effectiveness of the prompts you craft.
+enter image description here
+
+🔄 Toggle Panel Size: Need to access the Chatbot App? Just click the Toggle Panel Size button at the top (next to the timer).
+enter image description here
+
+🤖 Getting to Know the Chatbot App
+The embedded chatbot is a user-friendly application that resembles ChatGPT but is powered by the widely-used open-source Mixtral-8x7B model, known for its speed. It's like having a friendly AI assistant to practice your prompts with! 😊
+
+To test your prompts, simply type them into the text area of the app and observe the AI's responses. It's like having a conversation with the AI!
+
+Chatbot App
+
+Want to change the layout or theme? Just click the three vertical dots on the top right corner of the app. Customize your experience! 🎨
+
+Theme Change
+
+⚠️ Rate Limits: Play Fair!
+To ensure fair usage, keep these rate limits in mind:
+
+30 requests per minute (RPM) ⏰
+14,400 requests per day (RPD) 📅
+40,000 tokens per minute (TPM) 🎫
+If you find that the app is not responsive or not working as expected, please take a short break and try again after a few minutes. Even AIs need a breather sometimes! 😅
+
+🎓 What's Next?
+This introductory lab is just a sandbox, but before we move on to the next lab where all of the action starts, take some time to experiment with the AI chatbot app! 🧪 Have fun crafting prompts and seeing how the AI responds. Notice how quick it is compared to ChatGPT? 😉 It's like having a speedy AI assistant at your fingertips!
+
+Just remember to use the app wisely and keep the rate limits in mind. Think of it as a friendly sparring partner in your prompt engineering journey. 🥋
+
+Starting from the next lab, we'll dive into the foundational tactics for crafting effective prompts to get reliable responses from the AI. Get ready to level up your prompt engineering skills! 💪
+
+Enjoy your journey into the art of prompt engineering! 🎨
